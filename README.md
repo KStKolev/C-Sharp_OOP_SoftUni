@@ -1,2 +1,2 @@
 # C-Sharp_OOP_SoftUni
-Exercises for OOP-Module in SoftUni
+Exercises from OOP-Module in SoftUni
